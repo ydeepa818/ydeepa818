@@ -14,11 +14,11 @@
 
 I am a **Ph.D. Scholar in Biotechnology** at the Department of Botany, University of Rajasthan, Jaipur. My doctoral thesis is compiled and I am preparing for final submission.
 
-- 🧬 **Doctoral Research Focus:** Plant molecular biology, genetic diversity assessment using **SCoT and ISSR molecular markers**, and laboratory & field evaluation of **seed nano-priming (SiO₂)** in cluster bean (*Cyamopsis tetragonoloba* L.).
-- 📚 **Scientific Record:** Author and co-author of **5 peer-reviewed journal papers** across plant genetics, biochemistry, and nano-agricultural biotechnology (including a first-author 2026 field study in *Biocatalysis and Agricultural Biotechnology*).
-- 🧪 **Hands-On Expertise:** Comprehensive benchwork experience in PCR, gel documentation, agarose gel electrophoresis, UV-visible spectrophotometry, antioxidant enzyme assays, centrifugation, and seed germination testing.
+- 🧬 **Doctoral Research:** High-level focus on plant molecular biology, molecular markers (SCoT & ISSR), and plant biochemical responses.
+- 📚 **Published Record:** Author and co-author of **5 peer-reviewed journal papers** across plant genetics, biochemistry, and agricultural biotechnology (including a first-author 2026 paper published in *Biocatalysis and Agricultural Biotechnology*).
+- 🧪 **Hands-On Lab Rigor:** Comprehensive benchwork experience in PCR, gel documentation, agarose gel electrophoresis, UV-visible spectrophotometry, antioxidant enzyme assays (SOD, catalase, peroxidase), centrifugation, and seed germination testing.
 - 🏭 **Industry & QC Experience:** Prior appointments as Quality Control Biologist (Trainee) at **CSIR-IHBT** and Executive in pharmaceutical product research & marketing at **LV Bioplasma**.
-- 🎯 **Career Interests:** Open to **Industry R&D, Plant Biotechnology Research, Teaching/Academia, and Global Remote Opportunities**.
+- 🎯 **Career Interests:** Open to **Industry R&D, Biotechnology Research, Teaching/Academia, and Global Remote Opportunities**.
 
 ---
 
@@ -26,15 +26,15 @@ I am a **Ph.D. Scholar in Biotechnology** at the Department of Botany, Universit
 
 | Domain | Techniques & Instruments |
 | :--- | :--- |
-| **Molecular Biology & Genetics** | DNA isolation, purification & quantification; PCR thermal cycling; SCoT & ISSR molecular marker analysis; Agarose gel electrophoresis; Gel documentation & band scoring; Genetic diversity profiling |
-| **Biochemical & Physiological Assays** | UV-Visible spectrophotometry; Antioxidant enzyme assays (Superoxide Dismutase - SOD, Catalase - CAT, Guaiacol Peroxidase - POD); Photosynthetic pigment quantification (Chlorophyll $a/b$, Carotenoids); Seed germination & vigour assays |
-| **Instrumentation** | PCR Thermal Cycler, Gel Documentation Systems, UV-Vis Spectrophotometer, High-speed Centrifuges, Seed Germinators |
+| **Molecular Biology & Genetics** | DNA isolation, purification & quantification; PCR thermal cycling; SCoT & ISSR molecular marker analysis; Agarose gel electrophoresis; Gel documentation & band scoring |
+| **Biochemical & Physiological Assays** | UV-Visible spectrophotometry; Antioxidant enzyme assays (Superoxide Dismutase - SOD, Catalase - CAT, Guaiacol Peroxidase - POD); Photosynthetic pigment quantification (Chlorophyll $a/b$, Carotenoids); Seed germination testing |
+| **Laboratory Instrumentation** | PCR Thermal Cycler, Gel Documentation Systems, UV-Vis Spectrophotometer, High-speed Centrifuges, Seed Germinators |
 | **Quality Control & Industry Practice** | Food & bioproduct quality control procedures, Standard Operating Procedures (SOPs), Good Laboratory Practices (GLP), QC documentation |
-| **Scientific Communication** | Peer-reviewed manuscript preparation, literature review & systematic synthesis, data analysis and curation (Microsoft Excel) |
+| **Scientific Communication** | Peer-reviewed manuscript preparation, literature review & systematic synthesis, data curation and analysis (Microsoft Excel) |
 
 ---
 
-### 📄 Peer-Reviewed Publications
+### 📄 Published Peer-Reviewed Papers
 
 1. **Sustainable yield enhancement in *Cyamopsis tetragonoloba* L. through seed priming: Bulk silicon vs. silicon nanoparticles**  
    **Deepa Kumari** (1st of 8), Ved Prakash Yadav, Shilpa Sharma, Shamshad ul Haq, Sourav Singla, Siddharth Kuldeep, S. L. Kothari, Sumita Kachhwaha.  
@@ -67,20 +67,18 @@ I am a **Ph.D. Scholar in Biotechnology** at the Department of Botany, Universit
 
 * **Doctor of Philosophy (Ph.D.) in Biotechnology** (Feb 2022 – Present)  
   *Department of Botany, University of Rajasthan, Jaipur*  
-  *Status:* Thesis compiled; preparing for final submission  
+  *Status:* Thesis compiled; final submission in progress  
+  *Research Area:* Plant Molecular Biology, Molecular Markers & Biochemical Responses  
   *Supervisor:* Prof. Sumita Kachhwaha  
-  *Pre-Ph.D. Presentation:* 15 July 2026  
-  *Approved Title:* Evaluation of genetic diversity in guar germplasm by using molecular markers and analysis of the effects of nano seed priming on important traits of selected certified varieties of *Cyamopsis tetragonoloba* L.
 
 * **Master of Science (M.Sc.) in Biotechnology** (2018 – 2020)  
   *University of Rajasthan, Jaipur*  
   *Result:* **First Class / First Division (78.50%)**  
-  *Dissertation:* Analysis of genetic polymorphism and phylogenetic relationship among 13 varieties using SCoT markers
+  *Area:* Plant Molecular Biology & Molecular Marker Analysis (SCoT markers)
 
 * **Bachelor of Science (B.Sc.) in Biotechnology** (2015 – 2018)  
   *Dr. B. Lal Institute of Biotechnology, Jaipur* (Affiliated with University of Rajasthan)  
   *Result:* **First Class / First Division (75.00%)**  
-  *Dissertation:* Studies on various physico-chemical conditions on fungal silver nanoparticles: implications for their stability
 
 ---
 
@@ -88,7 +86,7 @@ I am a **Ph.D. Scholar in Biotechnology** at the Department of Botany, Universit
 
 * **Ph.D. Scholar (Biotechnology)** | University of Rajasthan, Department of Botany *(Feb 2022 – Present)*  
   *Jaipur, Rajasthan, India*  
-  Research on guar germplasm diversity using SCoT/ISSR markers, SiO₂ nano-priming field & lab studies, physiological and antioxidant enzyme profiling.
+  Doctoral research in plant molecular biology, molecular markers, and plant biochemical responses. Hands-on laboratory techniques including PCR, gel electrophoresis, spectrophotometric assays, and antioxidant enzyme profiling.
 
 * **Executive** | LV Bioplasma Immunological Research *(Nov 2021 – Feb 2022)*  
   *Gurugram, Haryana, India*  
@@ -98,7 +96,7 @@ I am a **Ph.D. Scholar in Biotechnology** at the Department of Botany, Universit
   *Palampur, Himachal Pradesh, India*  
   Food and bioproduct quality control techniques.
 
-* **Research Intern (Academic Research Training)** | University of Rajasthan, Department of Botany *(Sep 2018 – Oct 2019)*  
+* **Academic Research Intern** | University of Rajasthan, Department of Botany *(Sep 2018 – Oct 2019)*  
   *Jaipur, Rajasthan, India*  
   Academic research training alongside M.Sc. coursework.
 
