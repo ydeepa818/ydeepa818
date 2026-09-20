@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/deepa-kumari-nanobiotech/"><img src="https://img.shields.io/badge/LinkedIn-Deepa_Kumari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:ydeepa818@gmail.com"><img src="https://img.shields.io/badge/Email-ydeepa818%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://galactobioai.vercel.app"><img src="https://img.shields.io/badge/Portfolio-GalactoBioAI-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://deepa-kumari.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Deepa_Kumari-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <img src="https://img.shields.io/badge/Status-Ph.D._Scholar_(Thesis_Compiled)-4CAF50?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Publications-5_Peer--Reviewed_Papers-8A2BE2?style=for-the-badge" alt="Publications">
 </p>
@@ -109,4 +109,4 @@ I am a **Ph.D. Scholar in Biotechnology** at the Department of Botany, Universit
 * 💼 **LinkedIn:** [linkedin.com/in/deepa-kumari-nanobiotech](https://www.linkedin.com/in/deepa-kumari-nanobiotech/)
 * 📧 **Email:** [ydeepa818@gmail.com](mailto:ydeepa818@gmail.com)
 * 🌍 **Location:** Jaipur, Rajasthan, India
-* 💻 **Web Portfolio:** [galactobioai.vercel.app](https://galactobioai.vercel.app)
+* 💻 **Web Portfolio:** [deepa-kumari.vercel.app](https://deepa-kumari.vercel.app/)
